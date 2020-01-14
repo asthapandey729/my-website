@@ -1,6 +1,1 @@
-
-# my-website
-this has been a new webiste in another repository under final
-the first ne was yet
-
-
+this is something happening after shit
